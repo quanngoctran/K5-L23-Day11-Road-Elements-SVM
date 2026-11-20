@@ -3,7 +3,7 @@ __pycache__/
 .pytest_cache/
 data/
 coach_gt/
-submissions/
 out/
-*.zip
 .env
+day11-data.zip
+.DS_Store
