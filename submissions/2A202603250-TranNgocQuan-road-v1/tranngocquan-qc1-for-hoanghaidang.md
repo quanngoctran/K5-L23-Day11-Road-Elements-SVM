@@ -1,6 +1,7 @@
 ## 4. Phiếu QC 1 nhận được
 
-Người kiểm (học viên):  Hoàng Hải Đăng (2A202603189)
+Người kiểm (học viên): Trần Ngọc Quân (2A202603250)
+Người được kiểm (học viên):  Hoàng Hải Đăng (2A202603189)
 Ngày: 21/11/2026                         
 Phiên bản guideline: Road v1.0  
 File được kiểm (tên + `revision` trong manifest):   hoanghaidang-front.zip, hoanghaidangn-fisheye.zip — revision 2 (sha256 khớp manifest)<br>
