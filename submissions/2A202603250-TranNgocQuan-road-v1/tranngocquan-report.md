@@ -3,7 +3,7 @@
 - Họ tên Trần Ngọc Quân · Mã học viên `2A202603250`
 - CVAT Community `2.74.1` · Guideline Road v1.0
 - Export từ CVAT localhost lúc 19:59 ngày 20/11/2026 (giờ Việt Nam)
-- Hồ sơ `revision: 2` sau tự kiểm. Bản `revision: 1` (export 17:18) lưu trong `r1/`, manifest cũ đổi tên thành `tranngocquan-manifest-r1.json`.
+- Hồ sơ `revision: 2` sau tự kiểm. Bản `revision: 1` (export 17:30) lưu trong `r1/`, manifest cũ đổi tên thành `tranngocquan-manifest-r1.json`.
 - Trạng thái hồ sơ: đã thêm bốn vạch còn thiếu ở A06, A07, A08, A14. Sau lần tự kiểm thứ hai trên 6 ảnh mẫu, đã thêm R2 ở A04 và A08, một đèn ở A06, ba biển ở A08, rồi export lại. Bốn job ở trạng thái completed. 
 - QC: Trịnh Vinh Khánh · Mã học viên `2A202603220`
 
